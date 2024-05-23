@@ -1,8 +1,9 @@
 """
 These words generated in a brainstorm session
-as a list to test from.
+as a list to test from. This is Quinn's edit!
 """
 wordlist = [
+	"tires",
     "pizza",
     "write",
     "wards",
